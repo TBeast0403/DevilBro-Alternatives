@@ -1,7 +1,7 @@
 /**
  * @name ShowHiddenChannels
  * @author Strencher
- * @version 1.0.0
+ * @version 1.0.1
  * @description Show hidden guild channels.
  * @source https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/development/ShowHiddenChannels
  * @updateUrl https://raw.githubusercontent.com/BD-MemorySeal/DevilBro-Alternatives/distribution/ShowHiddenChannels/ShowHiddenChannels.plugin.js
@@ -38,7 +38,7 @@ const config = {
 			"github_username": "Strencher",
 			"twitter_username": "Strencher3"
 		}],
-		"version": "1.0.0",
+		"version": "1.0.1",
 		"description": "Show hidden guild channels.",
 		"github": "https://github.com/BD-MemorySeal/DevilBro-Alternatives/tree/development/ShowHiddenChannels",
 		"github_raw": "https://raw.githubusercontent.com/BD-MemorySeal/DevilBro-Alternatives/distribution/ShowHiddenChannels/ShowHiddenChannels.plugin.js"
